@@ -1,0 +1,11 @@
+{
+    "name": "fhe/git",
+    "type": "module",
+    "authors": [
+        {
+            "name": "Fabien hauchecorne",
+            "email": "luckypouet@me.com"
+        }
+    ],
+    "require": {}
+}
